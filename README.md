@@ -8,13 +8,14 @@
 
 ## 🧑‍💻 About me
 
-I’m a **Data Scientist & Engineer** with a strong background in **Machine Learning, Data Engineering, and AI applications**.  
-Passionate about solving real-world problems through technology, I enjoy building models, designing algorithms, and developing end-to-end data solutions.  
+I love solving complex problems and turning them into elegant, efficient solutions.
+I get truly motivated when I’m working on projects I believe in — challenges where technology can make a real impact.
+I’m always eager to keep evolving and learning, and I enjoy connecting with people who are on the same journey of growth and exploration.
 
 - 🎓 Currently pursuing a **Master’s in Data Science** at the University of Granada (2024–Present).  
 - 🎓 **B.Sc. in Computer Engineering** (specialization in Data Science & AI) from the University of Granada (2019–2023).  
-- 💡 Experienced in **time series forecasting, recommender systems, NLP/LLMs, and computer vision**.  
-- 🚀 Always open to **collaboration, research opportunities, and innovative projects**.  
+- 💡 Experienced in **time series forecasting, recommender systems, ML/DL, NLP/LLMs, and computer vision**.  
+- 🤝 Open to collaboration, research opportunities, and challenging projects where I can apply my skills to real-world problems.
 
 ---
 
@@ -61,5 +62,4 @@ Passionate about solving real-world problems through technology, I enjoy buildin
 
 ---
 
-> “Technology is only meaningful when it solves real-world problems — that’s my mission as a data scientist.”
-
+> **If you can dream it, you can code it. 💡💻**
